@@ -3,7 +3,7 @@
 Using A-frame to create a text overlay on a 360 image.
 
 ## 🔗 Preview
-[!(https://robertsbaer.github.io/Aframe-VR-image/)]
+https://robertsbaer.github.io/Aframe-VR-image/
 
 
 
