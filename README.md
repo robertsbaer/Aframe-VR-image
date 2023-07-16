@@ -1,3 +1,9 @@
 # Aframe-VR-image
 
-using A-frame to create a text overlay on a 360 image.
+Using A-frame to create a text overlay on a 360 image.
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/robertsbaer/Aframe-VR-image/blob/main/download.png)
+
